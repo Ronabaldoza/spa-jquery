@@ -1,3 +1,9 @@
 .cliff-h1{
     color: #99ccff;
 }
+.bg{
+    background-image: url('https://www.marthastewart.com/thmb/aJeb6BMqY6c3PRxiPzOEKfkQwPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wolf-moon-full-moon-news-getty-0123-2000-31070d90be0a4caa857fee248b67059e.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 42.5vw;
+}
